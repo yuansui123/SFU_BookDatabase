@@ -1,0 +1,10 @@
+Title: hello world     Author: Jenny     Date of publication: 1999     Book type: hardcover     ISBN: 123456789x     Number of pages: 200
+---------------------
+Title: hello world     Author: Gin     Date of publication: 1980     Book type: softcover     ISBN: 1234567891231     Number of pages: 260
+---------------------
+Title: my computer     Author: Jenny     Date of publication: 2002     Book type: hardcover     ISBN: 123456789x     Number of pages: 123
+---------------------
+Title: CMPT 135     Author: Toby Donaldson     Date of publication: 2020     Book type: digital     ISBN: 1234567891231     Number of pages: 19
+---------------------
+Title: Harry and Potter     Author: JK     Date of publication: 2017     Book type: softcover     ISBN: 123456789x     Number of pages: 34
+---------------------
